@@ -6,19 +6,12 @@ My name is Nasim Anjum and I'm a software engineer. I'm from Bangladesh, living 
 
 ## 🔧 Technologies & Tools
 
-
-# PHP 
-
 ![PHP](https://img.shields.io/badge/Php-000?&logo=PHP)
 ![LARAVEL](https://img.shields.io/badge/Laravel-000?&logo=LARAVEL)
-
-# JAVASCRIPT
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?&logo=TypeScript)
 ![Node.js](https://img.shields.io/badge/NODEJS-000?&logo=Node.js)
-
-# FRONTEND
 
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
@@ -58,10 +51,3 @@ My name is Nasim Anjum and I'm a software engineer. I'm from Bangladesh, living 
 [3]: https://www.linkedin.com/in/nasim-anjum/
 
 
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
