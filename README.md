@@ -8,6 +8,7 @@ My name is Nasim Anjum and I'm a software engineer. I'm from Bangladesh, living 
 
 ![PHP](https://img.shields.io/badge/Php-000?&logo=PHP)
 ![LARAVEL](https://img.shields.io/badge/Laravel-000?&logo=LARAVEL)
+![Mysql](https://img.shields.io/badge/mysql-000?&logo=mysql)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?&logo=TypeScript)
@@ -17,6 +18,8 @@ My name is Nasim Anjum and I'm a software engineer. I'm from Bangladesh, living 
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
 
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-000?&logo=DigitalOcean)
 
 
 <!-- ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL) -->
