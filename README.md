@@ -9,12 +9,19 @@ My name is Nasim Anjum and I'm a software engineer. I'm from Bangladesh, living 
 ![PHP](https://img.shields.io/badge/Php-000?&logo=PHP)
 ![LARAVEL](https://img.shields.io/badge/Laravel-000?&logo=LARAVEL)
 ![Mysql](https://img.shields.io/badge/MySQL-000?&logo=MySQL)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?&logo=TypeScript)
 ![Node.js](https://img.shields.io/badge/NODEJS-000?&logo=Node.js)
+![Socket.io](https://img.shields.io/badge/Socketio-000?&logo=Socket.io)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
+![Nest js](https://img.shields.io/badge/-NestJS-000?&logo=nestjs)
+![Adonis js](https://img.shields.io/badge/-AdonisJS-000?&logo=adonisjs)
+
+![BOotstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)
+
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-000?&logo=DigitalOcean)
 
