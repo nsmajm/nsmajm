@@ -2,7 +2,7 @@
 
 # Hello! <img src="https://raw.githubusercontent.com/nsmajm/nsmajm/main/wave.gif" width="30px" height="30px" />
 
-My name is Nasim Anjum and I'm a software engineer. I'm from Bangladesh, living in Dhaka and currently working at SSL WIRELESS. You can find me on [![LinkedIn][3.2]][3].
+My name is Nasim Anjum and I'm a software engineer. I'm from the United Kingdom. You can find me on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 
