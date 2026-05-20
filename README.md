@@ -1,38 +1,41 @@
 <!-- ─────────────────────────────────────────────────────────────── -->
 <!--  Md Nasim Anjum  ·  Senior Software Engineer                    -->
-<!--  Payments · Platform · Compliance                                -->
+<!--  Payments  ·  Platform  ·  Compliance                            -->
 <!--  github.com/nsmajm   ·   linkedin.com/in/nasim-anjum             -->
 <!-- ─────────────────────────────────────────────────────────────── -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:115e59,100:14b8a6&height=230&section=header&text=Md%20Nasim%20Anjum&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=SENIOR%20SOFTWARE%20ENGINEER%20%E2%80%94%20PAYMENTS%20%C2%B7%20PLATFORM%20%C2%B7%20COMPLIANCE&descAlignY=58&descSize=14&animation=fadeIn" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:1a2847,100:c9a961&height=240&section=header&text=Md%20Nasim%20Anjum&fontSize=68&fontColor=ffffff&fontAlignY=36&desc=Senior%20Software%20Engineer%20%E2%80%94%20Payments%20%E2%80%A2%20Platform%20%E2%80%A2%20Compliance&descAlignY=58&descSize=14&animation=fadeIn" alt="header" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=18&duration=2800&pause=1000&color=14B8A6&center=true&vCenter=true&width=780&height=42&lines=Eight+years+designing+systems+that+move+money+and+absorb+complexity.;Backend+%C2%B7+frontend+%C2%B7+architecture+%E2%80%94+the+whole+arc.;Liverpool%2C+United+Kingdom+%E2%80%94+open+to+conversations." alt="positioning"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=1100&color=C9A961&center=true&vCenter=true&width=820&height=42&lines=Designing+payment+infrastructure+that+behaves+well+under+failure;Turning+regulated%2C+complex+domains+into+software+that+feels+inevitable;Eight+years+%E2%80%94+backend+%E2%80%A2+frontend+%E2%80%A2+architecture+%E2%80%A2+the+whole+arc" alt="positioning"/>
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/nasim-anjum">
-  <img src="https://img.shields.io/badge/LinkedIn-_nasim--anjum-0f172a?style=for-the-badge&logo=linkedin&logoColor=14b8a6&labelColor=0f172a" height="32" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="mailto:nasimanjum1995@gmail.com">
-  <img src="https://img.shields.io/badge/Email-_reach_out-0f172a?style=for-the-badge&logo=protonmail&logoColor=14b8a6&labelColor=0f172a" height="32" alt="Email"/>
-</a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=nsmajm&style=for-the-badge&color=14b8a6&label=VIEWS&labelColor=0f172a" height="32" alt="Views"/>
+<!-- KPI tile strip -->
+<img src="https://img.shields.io/badge/EXPERIENCE-8%2B%20YEARS-0a1628?style=for-the-badge&labelColor=c9a961" height="28"/>&nbsp;
+<img src="https://img.shields.io/badge/GATEWAYS%20SHIPPED-15%2B-0a1628?style=for-the-badge&labelColor=c9a961" height="28"/>&nbsp;
+<img src="https://img.shields.io/badge/DOMAINS-FINTECH%20%C2%B7%20SAAS%20%C2%B7%20AI-0a1628?style=for-the-badge&labelColor=c9a961" height="28"/>&nbsp;
+<img src="https://img.shields.io/badge/%E2%97%8F%20STATUS-ACTIVELY%20BUILDING-c9a961?style=for-the-badge&labelColor=0a1628" height="28"/>
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/nasim-anjum"><img src="https://img.shields.io/badge/LinkedIn-_nasim--anjum-111a2e?style=for-the-badge&logo=linkedin&logoColor=c9a961&labelColor=0a1628" height="32"/></a>&nbsp;
+<a href="mailto:nasimanjum1995@gmail.com"><img src="https://img.shields.io/badge/Email-_reach_out-111a2e?style=for-the-badge&logo=protonmail&logoColor=c9a961&labelColor=0a1628" height="32"/></a>&nbsp;
+<a href="https://github.com/nsmajm"><img src="https://img.shields.io/badge/GitHub-_nsmajm-111a2e?style=for-the-badge&logo=github&logoColor=c9a961&labelColor=0a1628" height="32"/></a>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=nsmajm&style=for-the-badge&color=c9a961&label=VIEWS&labelColor=0a1628" height="32"/>
 
 </div>
 
 <br/>
 
-<!-- ─── 01 · ABOUT ─────────────────────────────────────────────── -->
+---
 
-## `/01` &nbsp; About
+### `▍` &nbsp; ABOUT
 
-<table border="0">
+<table border="0" align="center">
 <tr>
 <td valign="top" width="58%" style="border:0">
 
@@ -40,18 +43,21 @@ I'm a senior software engineer with **eight years** designing and shipping syste
 
 Currently building the engine room of a modern payments stack at **Paymid Limited** — intelligent gateway routing, PCI-DSS-compliant integrations, failover orchestration, and the dashboards that make all of it observable.
 
-I work end-to-end: schema → API → UI → deploy → on-call. I optimise for the engineer reading this code in two years.
+I work end-to-end — schema → API → UI → deploy → on-call — and I optimise for the engineer reading this code in two years.
 
 </td>
 <td valign="top" width="42%" style="border:0">
 
 ```yaml
-role     : Senior Software Engineer
-company  : Paymid Limited
-location : Liverpool, UK · GMT
-focus    : payments · platform
-status   : ● actively building
-open_to  : senior IC roles
+identity   : Md Nasim Anjum
+role       : Senior Software Engineer
+company    : Paymid Limited
+location   : Liverpool · UK · GMT
+experience : 8+ years
+focus      : payments · platform
+philosophy : correct → clear → clever
+status     : ● actively building
+open_to    : senior IC · staff
 ```
 
 </td>
@@ -60,74 +66,32 @@ open_to  : senior IC roles
 
 <br/>
 
-<!-- ─── 02 · WORK ──────────────────────────────────────────────── -->
+---
 
-## `/02` &nbsp; Selected work
+### `▍` &nbsp; NOW SHIPPING
 
-<table width="100%">
+<table border="0" width="100%">
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="62%" style="border:0">
 
-<sub>**PAYMID LIMITED · 2025 — PRESENT**</sub>
+#### Payment Routing Engine
+###### &nbsp;PAYMID LIMITED &nbsp;·&nbsp; 2025 — PRESENT
 
-### Payment Routing Engine
+Architected an intelligent gateway-selection system: **automated failover, load balancing, smart retry logic, real-time transaction optimisation**, and a gateway health-monitoring dashboard.
 
-Architected an intelligent gateway-selection system: automated failover, load balancing, smart retry logic, real-time transaction optimisation, and a gateway health-monitoring dashboard. Measurable lift in payment success rates across web and mobile checkout.
-
-</td>
-<td valign="top" width="50%">
-
-<sub>**PAYMID LIMITED · 2025 — PRESENT**</sub>
-
-### Global Gateway Integrations
-
-15+ PCI-DSS-compliant integrations spanning Google Pay, Apple Pay, Stripe, Authorize.net, SSLcommerz and regional rails — reducing cart abandonment and unifying merchant experience across markets.
+Measurable lift in payment success rates across web and mobile checkout. PCI-DSS compliant.
 
 </td>
-</tr>
+<td valign="top" width="38%" style="border:0" align="center">
 
-<tr><td colspan="2" height="18"></td></tr>
+<img src="https://img.shields.io/badge/IMPACT-_-0a1628?style=for-the-badge&labelColor=c9a961" height="22"/>
 
-<tr>
-<td valign="top" width="50%">
+<br/>
 
-<sub>**COCOMPLY LIMITED · 2024 — 2025**</sub>
-
-### Multi-Tenant SaaS Migration
-
-Transformed a single-tenant compliance platform into a multi-tenant architecture — preserving data isolation and per-tenant configurability while unlocking scale across enterprise clients.
-
-</td>
-<td valign="top" width="50%">
-
-<sub>**COCOMPLY LIMITED · 2024 — 2025**</sub>
-
-### AI Document Intelligence
-
-Built aggregation pipelines extracting actionable insight from Statements of Work, vendor audits, and third-party feeds using NLP-driven analysis. Five high-impact features shipped end-to-end.
-
-</td>
-</tr>
-
-<tr><td colspan="2" height="18"></td></tr>
-
-<tr>
-<td valign="top" width="50%">
-
-<sub>**CELLBUNQ SYSTEMS · 2023 — 2024**</sub>
-
-### KYC / KYB / AML Platform
-
-Centralised onboarding & compliance dashboard with regulatory-grade auditability. Introduced an express onboarding journey that reduced user friction without sacrificing rigour.
-
-</td>
-<td valign="top" width="50%">
-
-<sub>**SSL WIRELESS · 2021 — 2023**</sub>
-
-### Omni-Channel Chatbot · iBOT
-
-Real-time conversational sync across Messenger, WhatsApp, Telegram, Facebook posts/comments, and Web — with seamless human handover and a Web SDK for third-party embedding.
+<sub>**↑ &nbsp; PAYMENT SUCCESS RATE**</sub>
+<sub>**15+ &nbsp; GLOBAL GATEWAYS**</sub>
+<sub>**PCI-DSS &nbsp; COMPLIANT**</sub>
+<sub>**WEB &nbsp;+&nbsp; MOBILE &nbsp; CHECKOUT**</sub>
 
 </td>
 </tr>
@@ -135,95 +99,180 @@ Real-time conversational sync across Messenger, WhatsApp, Telegram, Facebook pos
 
 <br/>
 
-<!-- ─── 03 · STACK ─────────────────────────────────────────────── -->
+---
 
-## `/03` &nbsp; Stack
+### `▍` &nbsp; SELECTED WORK
+
+<table width="100%">
+
+<tr>
+<td valign="top" width="50%">
+
+###### &nbsp;COCOMPLY LIMITED  ·  2024 — 2025
+
+### Multi-Tenant SaaS Migration
+
+Transformed a single-tenant compliance platform into a multi-tenant architecture — preserving **data isolation** and **per-tenant configurability** while unlocking scale across enterprise clients.
+
+<sub>`saas` &nbsp; `architecture` &nbsp; `migration`</sub>
+
+</td>
+<td valign="top" width="50%">
+
+###### &nbsp;COCOMPLY LIMITED  ·  2024 — 2025
+
+### AI Document Intelligence
+
+Built aggregation pipelines extracting actionable insight from **Statements of Work, vendor audits, and third-party feeds** using NLP-driven analysis. Five high-impact features shipped end-to-end.
+
+<sub>`nlp` &nbsp; `automation` &nbsp; `aws`</sub>
+
+</td>
+</tr>
+
+<tr><td colspan="2" height="18"></td></tr>
+
+<tr>
+<td valign="top" width="50%">
+
+###### &nbsp;CELLBUNQ SYSTEMS  ·  2023 — 2024
+
+### KYC / KYB / AML Platform
+
+Centralised onboarding & compliance dashboard with **regulatory-grade auditability**. Introduced an *express* onboarding journey that reduced user friction without sacrificing rigour.
+
+<sub>`kyc` &nbsp; `compliance` &nbsp; `dashboards`</sub>
+
+</td>
+<td valign="top" width="50%">
+
+###### &nbsp;SSL WIRELESS  ·  2021 — 2023
+
+### Omni-Channel Chatbot — iBOT
+
+Real-time conversational sync across **Messenger, WhatsApp, Telegram, Facebook posts/comments, and Web** — with seamless human handover and a Web SDK for third-party embedding.
+
+<sub>`chatbot` &nbsp; `socket.io` &nbsp; `omnichannel`</sub>
+
+</td>
+</tr>
+
+</table>
+
+<br/>
+
+---
+
+### `▍` &nbsp; STACK
 
 <div align="center">
 
-<sub>**BACKEND**</sub>
+<sub>**▸ &nbsp; BACKEND &nbsp; · &nbsp; APIs &nbsp; · &nbsp; SERVICES**</sub>
 
 <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs,express,ts,js,graphql&theme=dark&perline=8" alt="backend"/>
 
 <br/>
 
-<sub>**FRONTEND**</sub>
+<sub>**▸ &nbsp; FRONTEND &nbsp; · &nbsp; DASHBOARDS**</sub>
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,redux,tailwind,bootstrap,html,css&theme=dark&perline=8" alt="frontend"/>
 
 <br/>
 
-<sub>**DATA  ·  PLATFORM  ·  TOOLS**</sub>
+<sub>**▸ &nbsp; DATA &nbsp; · &nbsp; INFRASTRUCTURE &nbsp; · &nbsp; TOOLS**</sub>
 
-<img src="https://skillicons.dev/icons?i=mysql,redis,rabbitmq,aws,docker,git,linux,bash&theme=dark&perline=8" alt="data and platform"/>
+<img src="https://skillicons.dev/icons?i=mysql,redis,rabbitmq,aws,docker,git,linux,bash&theme=dark&perline=8" alt="infra"/>
+
+<br/><br/>
+
+<sub><b>ALSO FLUENT IN</b> &nbsp;·&nbsp; Lumen &nbsp;·&nbsp; AdonisJS &nbsp;·&nbsp; Socket.io &nbsp;·&nbsp; React Query &nbsp;·&nbsp; Redux Toolkit &nbsp;·&nbsp; Ant Design &nbsp;·&nbsp; MariaDB &nbsp;·&nbsp; DigitalOcean &nbsp;·&nbsp; CloudFormation &nbsp;·&nbsp; CI/CD pipelines</sub>
 
 </div>
 
 <br/>
 
-<div align="center">
-<sub>
-  <b>Also fluent in</b> &nbsp;·&nbsp; Lumen &nbsp;·&nbsp; AdonisJS &nbsp;·&nbsp; Socket.io &nbsp;·&nbsp; React Query &nbsp;·&nbsp; Redux Toolkit &nbsp;·&nbsp; Ant Design &nbsp;·&nbsp; MariaDB &nbsp;·&nbsp; DigitalOcean &nbsp;·&nbsp; CloudFormation &nbsp;·&nbsp; CI/CD pipelines
-</sub>
-</div>
+---
 
-<br/>
-
-<!-- ─── 04 · GITHUB ────────────────────────────────────────────── -->
-
-## `/04` &nbsp; GitHub
+### `▍` &nbsp; ENGINEERING ACTIVITY
 
 <table align="center" width="100%" border="0">
 <tr>
 <td width="50%" align="center" style="border:0">
+
 <a href="https://github.com/nsmajm">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nsmajm&theme=tokyonight" height="170" alt="stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nsmajm&theme=nord_dark" height="190" alt="profile details"/>
 </a>
+
 </td>
 <td width="50%" align="center" style="border:0">
+
 <a href="https://github.com/nsmajm">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nsmajm&hide_border=true&background=0f172a&stroke=0f172a&ring=14b8a6&fire=14b8a6&currStreakLabel=14b8a6&sideLabels=e2e8f0&dates=64748b&currStreakNum=ffffff&sideNums=ffffff" height="170" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nsmajm&hide_border=true&background=0a1628&stroke=c9a961&ring=c9a961&fire=c9a961&currStreakLabel=c9a961&sideLabels=e8eaed&dates=8b95a7&currStreakNum=ffffff&sideNums=ffffff" height="190" alt="streak"/>
 </a>
+
+</td>
+</tr>
+</table>
+
+<table align="center" width="100%" border="0">
+<tr>
+<td width="50%" align="center" style="border:0">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nsmajm&theme=nord_dark" height="180" alt="repos per language"/>
+
+</td>
+<td width="50%" align="center" style="border:0">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nsmajm&theme=nord_dark" height="180" alt="most commit language"/>
+
 </td>
 </tr>
 </table>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nsmajm&bg_color=0f172a&color=14b8a6&line=14b8a6&point=ffffff&area=true&area_color=14b8a6&hide_border=true&custom_title=Contribution+activity+%E2%80%94+last+12+months&title_color=e2e8f0" alt="activity graph" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nsmajm&bg_color=0a1628&color=c9a961&line=c9a961&point=ffffff&area=true&area_color=c9a961&hide_border=true&custom_title=Contribution+activity+%E2%80%94+last+12+months&title_color=e8eaed" alt="activity graph" width="98%"/>
 
 </div>
 
 <br/>
 
-<!-- ─── 05 · PHILOSOPHY ────────────────────────────────────────── -->
+<div align="center">
 
-## `/05` &nbsp; How I work
+[![trophy](https://github-profile-trophy.vercel.app/?username=nsmajm&theme=nord_dark&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<br/>
+
+---
+
+### `▍` &nbsp; HOW I WORK
 
 <table width="100%" border="0">
 <tr>
 <td valign="top" width="33%" style="border:0">
 
-#### Correctness first
+#### ⟶ &nbsp; Correctness first
 *Clarity second. Cleverness last.*
 
-In regulated domains the cost of being clever exceeds the cost of being boring.
+In regulated domains the cost of being clever exceeds the cost of being boring. Optimise for the engineer reading this code in two years.
 
 </td>
 <td valign="top" width="34%" style="border:0">
 
-#### Model failure as default
+#### ⟶ &nbsp; Model failure as default
 *Every dependency will fail.*
 
-Designs assume failure; observability proves it; runbooks operationalise it.
+Designs assume failure. Observability proves it. Runbooks operationalise it. Pagers stay quiet because the system catches itself.
 
 </td>
 <td valign="top" width="33%" style="border:0">
 
-#### Own the full arc
+#### ⟶ &nbsp; Own the full arc
 *Schema · API · UI · deploy · on-call.*
 
-The handoff between layers is where bugs live. I follow features through the whole journey.
+The handoff between layers is where bugs live. I follow features end-to-end, then keep showing up when production behaves strangely.
 
 </td>
 </tr>
@@ -231,26 +280,29 @@ The handoff between layers is where bugs live. I follow features through the who
 
 <br/>
 
-<!-- ─── 06 · CONTACT ───────────────────────────────────────────── -->
+---
 
-## `/06` &nbsp; Contact
+### `▍` &nbsp; CONTACT
 
 <table width="100%" border="0">
 <tr>
 <td valign="top" width="55%" style="border:0">
 
-I'm open to thoughtful conversations about **payments infrastructure**, **compliance tooling**, **multi-tenant architecture**, and **senior individual-contributor / staff engineer roles**.
+I'm open to thoughtful conversations about
+**payments infrastructure**, **compliance tooling**, **multi-tenant architecture**, and **senior individual-contributor / staff engineer roles**.
 
-If you're building in any of those spaces, the fastest paths to reach me are over →
+If you're building in any of those spaces and want a second pair of hands on the system, the fastest paths to reach me are over →
 
 </td>
 <td valign="top" width="45%" style="border:0">
 
 ```text
-LINKEDIN   linkedin.com/in/nasim-anjum
-EMAIL      nasimanjum1995@gmail.com
-GITHUB     github.com/nsmajm
-LOCATION   Liverpool, UK · remote-friendly
+LINKEDIN    linkedin.com/in/nasim-anjum
+EMAIL       nasimanjum1995@gmail.com
+GITHUB      github.com/nsmajm
+LOCATION    Liverpool · United Kingdom
+TIMEZONE    GMT (UTC+0)
+REMOTE      yes · globally
 ```
 
 </td>
@@ -261,8 +313,10 @@ LOCATION   Liverpool, UK · remote-friendly
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,50:115e59,100:0f172a&height=110&section=footer&animation=fadeIn" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c9a961,50:1a2847,100:0a1628&height=110&section=footer&animation=fadeIn" alt="footer"/>
 
-<sub><code>md nasim anjum &nbsp;·&nbsp; senior software engineer &nbsp;·&nbsp; v2026</code></sub>
+<sub>
+  <code>md nasim anjum</code> &nbsp;·&nbsp; <code>senior software engineer</code> &nbsp;·&nbsp; <code>v2026.05</code> &nbsp;·&nbsp; <code>● deployed</code>
+</sub>
 
 </div>
